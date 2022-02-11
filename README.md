@@ -1,0 +1,5 @@
+- 👋 Olá! 🇧🇷 I’m @caioteodoro
+- 👨🏻‍💻 I’m interested in Apple devices and its systems
+- 🌱 I’m currently improving my skills in Swift
+- 📱 I’m looking to collaborate on any Swift project now
+- 📫 You can reach me in my [e-mail](caiorodrigot@hotmail.com) or in my [LinkedIn account](https://www.linkedin.com/in/caio-teodoro-025b87105/).
