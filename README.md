@@ -1,7 +1,7 @@
 # Olá! I’m @caioteodoro 🇧🇷 
-- 🍎 I’m interested in Apple devices and its systems
+- 🍎 I’m a huge fan of Apple devices and its systems
 - 🌱 I’m currently improving my skills in Swift
-- 👨🏻‍💻 I’m looking for a first opportunity to contribute on an iOS project
+- 👨🏻‍💻 I’m currently working as an iOS Dev in LealApps
 - 🦁 Fun fact: I would have a lion as my pet. Since I can't I got a Maine Coon named Charlie 🐈
 
 ### Let's connect:
